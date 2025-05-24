@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I am ravi 
 hwllo
+=======
+this is ravi 
+hello
+>>>>>>> 34579b4 (r1 commited)
